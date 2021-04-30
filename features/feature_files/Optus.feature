@@ -24,7 +24,7 @@ Feature: Uniqlo_Ruby_Watir_Automation
     And I expect to see "Galaxy S21 Ultra 5G"
 
   @scenario2
-  Scenario: Verify user is able to retrieve Mobile Phones after applying filters on Device listing page.
+  Scenario: checkout related stuff (incomplete)
     Then I click on the "Shop" Button
     Then I click on the "Data SIMs" Button
     Then I click on the "Buy Now" Button
